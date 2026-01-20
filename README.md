@@ -60,6 +60,6 @@ These metrics help assess the accuracy and reliability of the predictions.
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates the complete machine learning workflow for a regression problem, from data preprocessing to model evaluation. It provides a solid foundation for understanding predictive modeling using Linear Regression.
