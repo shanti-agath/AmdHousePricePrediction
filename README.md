@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-The goal of this project is to predict house prices based on various features such as location, size, and number of rooms. Accurate price prediction helps buyers and sellers make informed decisions in the real estate market.
+The goal of this project is to predict house prices in Ahmedabad based on various features such as location, size, and number of rooms. Accurate price prediction helps buyers and sellers make informed decisions in the real estate market.
 
 ---
 
