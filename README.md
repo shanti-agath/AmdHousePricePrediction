@@ -17,6 +17,6 @@ This project predicts house prices using a Machine Learning regression model.
 Evaluated using MAE and R² score.
 
 ## How to Run
-pip install -r requirements.txt
+pip install -r requirements.txt  
 python house_price_prediction.py
 
